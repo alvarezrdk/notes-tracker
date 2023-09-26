@@ -48,4 +48,4 @@ const handleFormSubmit = (e) => {
 
 
 // Listen for when the form is submitted
-tipForm.addEventListener('new-note', handleFormSubmit);
+tipForm.addEventListener('save-note', handleFormSubmit);
